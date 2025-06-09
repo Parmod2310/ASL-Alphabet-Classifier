@@ -6,21 +6,23 @@ A deep learning-based system to classify static American Sign Language (ASL) han
 
 ## 📖 Table of Contents
 
-- [Overview](#overview)
-- [Dataset](#dataset)
-- [Preprocessing & Augmentation](#preprocessing--augmentation)
-- [Model Architecture](#model-architecture)
-- [Training Process](#training-process)
-- [Evaluation](#evaluation)
-- [Real-Time Inference](#real-time-inference)
-- [Active Learning](#active-learning)
-- [Deployment](#deployment)
-- [Challenges & Solutions](#challenges--solutions)
-- [Applications](#applications)
-- [Future Work](#future-work)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [License](#license)
+- [📌 Overview](#-overview)
+- [📊 Dataset](#-dataset)
+- [🧼 Preprocessing & Augmentation](#-preprocessing--augmentation)
+- [🏗️ Model Architecture](#️-model-architecture)
+- [🏋️ Training Process](#️-training-process)
+- [✅ Evaluation](#-evaluation)
+- [🎥 Real-Time Inference](#-real-time-inference)
+- [🔁 Active Learning](#-active-learning)
+- [🚀 Deployment](#-deployment)
+- [🧩 Challenges & Solutions](#-challenges--solutions)
+- [💡 Applications](#-applications)
+- [🔮 Future Work](#-future-work)
+- [🚀 Getting Started](#-getting-started)
+- [📁 Project Directory Structure](#-project-directory-structure)
+- [⚖️ License](#️-license)
+- [🔗 Contact & Links](#-contact--links)
+- [💬 Visitor Note](#-visitor-note)
 
 ---
 
@@ -208,6 +210,7 @@ pip install -r requirements.txt
 
 ```
 --- 
+## 📁 Project Directory Structure
 
 ```
 📁 asl-alphabet-classification/
@@ -228,7 +231,7 @@ pip install -r requirements.txt
 
 ---
 
-**Dataset Source:**  
+ ### **Dataset Source:**  
 Due to size constraints, the dataset is not included in this repository. You can download it from Kaggle:  
 📦 [ASL Alphabet Dataset on Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
 
