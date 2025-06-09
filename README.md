@@ -254,6 +254,21 @@ Feel free to reach out for collaboration, feedback, or contributions!
 
 ---
 
+---
+
+## 🙏 Special Thanks
+
+This project would not have been possible without the guidance, resources, and support from the open-source and AI communities.
+
+- Special thanks to **Kaggle** for hosting the [ASL Alphabet Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet).
+- Gratitude to the **TensorFlow** and **Keras** teams for enabling accessible and scalable deep learning.
+- Appreciation to my mentors, peers, and everyone who provided feedback during development.
+- Thanks to the open-source contributors and researchers working to make communication more inclusive and accessible.
+
+Together, we code a more inclusive future. 🤟
+
+---
+
 ## 💬 Visitor Note
 
 > 👋 **Hello and welcome!**
@@ -266,3 +281,4 @@ If you have questions, suggestions, or would like to contribute, feel free to op
 Enjoy exploring the repo and keep building amazing things! 🚀
 
 ---
+
