@@ -234,6 +234,14 @@ Due to size constraints, the dataset is not included in this repository. You can
 
 ---
 
+## ⚖️ License
+
+This project is licensed under the **MIT License**.  
+See the [LICENSE](./LICENSE) file for full details.
+
+
+---
+
 ## 🔗 Contact & Links
 
 - **GitHub Profile:** [parmod2310](https://github.com/parmod2310)
