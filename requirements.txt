@@ -1,0 +1,14 @@
+pandas==2.3.0
+numpy==2.1.2
+matplotlib==3.9.2
+seaborn==0.13.2
+scikit-learn==1.5.2
+keras-tuner==1.4.7
+opencv-python==4.10.0.84
+tensorflow==2.19.0
+h5py==3.12.1
+mediapipe==0.10.15
+PyQt5==5.15.11
+SpeechRecognition==3.10.4
+pygame==2.6.1
+python-vlc==3.0.181
